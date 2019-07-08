@@ -1,5 +1,6 @@
 # rockionic
 
-https://rockionic.firebaseapp.com/tabs/tab1
+https://rockionic.firebaseapp.com
+
 
 created with Ionic and Angular
